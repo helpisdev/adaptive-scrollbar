@@ -1,7 +1,7 @@
 name: adaptive_scrollbar
 description: Adaptive desktop-style scrollbar that can be placed on either side of the screen.
 version: 3.0.0
-homepage: https://github.com/helpis-software/adaptive-scrollbar
+homepage: https://github.com/helpisdev/adaptive-scrollbar
 publish_to: none
 
 environment:
