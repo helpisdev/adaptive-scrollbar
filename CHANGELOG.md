@@ -1,3 +1,8 @@
+## 3.1.0
+
+ - **FIX**: Correct repository in pubspec.yaml. ([81715dfa](https://github.com/helpisdev/adaptive_scaffold.git/commit/81715dfa205655589cceefe1c17d1996c081b8cc))
+ - **FEAT**: Rework. ([55dafe05](https://github.com/helpisdev/adaptive_scaffold.git/commit/55dafe051cb21e241129005e262d9c4849f573dd))
+
 ## [0.1.0] - 09.04.2021
 * Initial release.
 
